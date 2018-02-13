@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar
+ */
+
+grammar grammar;
+
+public <words> = (telephone | spider | home | calf | ant);
+public <weak_syllable_deletion> = (teffone | pider | hoe | ca | at);
+public <phrases>  = ( how are you | say hello | say amazing | what day is today);
+
