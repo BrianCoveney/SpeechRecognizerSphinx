@@ -7,6 +7,9 @@
 
 This project uses Sphinx4, a speech recognition library, which is written entirely in the JavaTM programming language by Carnegie Mellon University(CMU). Sphinx4 provides a quick and easy API to convert the speech recordings into text with the help of CMUSphinx acoustic models.
 
+[https://github.com/cmusphinx/sphinx4
+](https://github.com/cmusphinx/sphinx4)
+
 ## Setting up 
 
 In gradle you need the following lines in build.gradle:
